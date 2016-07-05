@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mzabriskie/react-flipcard.git"
+    "url": "https://github.com/aabilio/react-flipcard.git"
   },
   "keywords": [
     "react-component"
@@ -17,9 +17,9 @@
   "author": "Matt Zabriskie",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mzabriskie/react-flipcard/issues"
+    "url": "https://github.com/aabilio/react-flipcard/issues"
   },
-  "homepage": "https://github.com/mzabriskie/react-flipcard",
+  "homepage": "https://github.com/aabilio/react-flipcard",
   "devDependencies": {
     "rackt-cli": "^0.5.3",
     "react": "^0.14.0",
